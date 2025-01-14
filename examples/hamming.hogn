@@ -1,0 +1,5 @@
+||*/ with access to numpy
+<||hamming/ a numpy array containing a hamming 7,4 parity check matrix
+<||code/ a 7 bit binary value
+||^/ get a user input and save the value to ||code/
+||^/ use the ||hamming/ parity check matrix to verify the code in ||code/ and output the result
