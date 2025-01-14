@@ -1,7 +1,7 @@
 <||flips/ a dictionary containing two keys: heads and tails which count how many times each side has been landed on
 ||^/ set the value of heads and tails in the dictionary ||flips/ to ;;0/
 <!!flip/ return a random value of true or false
-||^/ using the function !!flip/ generate 100 random coin flips. When they return true &&
+||^/ using the function !!flip/ generate ;;100/ random coin flips. When they return true &&
 increment the value of heads in ||flips/ and when they return false increment the value &&
 of tails
 ||^> output the values of ||flips/
