@@ -4,4 +4,4 @@
 ||^/ using the function !!flip/ generate ;;100/ random coin flips. When they return true &&
 increment the value of heads in ||flips/ and when they return false increment the value &&
 of tails
-||^> output the values of ||flips/
+||^/ output the values of ||flips/
