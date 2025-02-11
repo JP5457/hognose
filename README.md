@@ -1,4 +1,4 @@
-# hognose
+# Hognose
 
 A fully ai driven programming language that sometimes produces working code
 
@@ -146,7 +146,7 @@ count = sum(1 for num in range(1, 101) if isprime(num))
 print(count)
 ```
 
-## multiline
+## Multiline
 
 By default all Hognose instructions must be on the same line. To get around this simply end a line with && and it will continue on to the next line
 ```
